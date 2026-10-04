@@ -1,0 +1,66 @@
+window.photoCredits = [
+  {
+    "subject": "Ceylon cinnamon sticks",
+    "author": "Simon A. Eugster",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_spices.jpg",
+    "changes": "Resized for web; displayed with a square crop. Adapted photographs remain under the stated source license."
+  },
+  {
+    "subject": "Turmeric powder",
+    "author": "Marina Pershina",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Turmeric_Powder.jpg",
+    "changes": "Resized for web; displayed with a square crop. Adapted photographs remain under the stated source license."
+  },
+  {
+    "subject": "Black peppercorns",
+    "author": "Misterneedlemouse",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Tellicherry_Black_Peppercorns.jpg",
+    "changes": "Resized for web; displayed with a square crop. Adapted photographs remain under the stated source license."
+  },
+  {
+    "subject": "Curry powder",
+    "author": "Henna",
+    "license": "CC BY-SA 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Curry-spice.jpg",
+    "changes": "Resized for web; displayed with a square crop. Adapted photographs remain under the stated source license."
+  },
+  {
+    "subject": "Dried Ceylon tea leaves",
+    "author": "HeroidShehu",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Ceylon_tea_Leafs.JPG",
+    "changes": "Resized for web; displayed with a square crop. Adapted photographs remain under the stated source license."
+  },
+  {
+    "subject": "Green cardamom pods",
+    "author": "Misterneedlemouse",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Green_Cardamom_Pods.jpg",
+    "changes": "Resized for web; displayed with a square crop. Adapted photographs remain under the stated source license."
+  },
+  {
+    "subject": "Coconut broken into halves",
+    "author": "Robert Wetzlmayr",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Kokosnuss-Coconut.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kokosnuss-Coconut.jpg",
+    "changes": "Resized for web; displayed with a square crop. Adapted photographs remain under the stated source license."
+  },
+  {
+    "subject": "Dried whole cloves",
+    "author": "Miansari66",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cloves_whole.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Cloves_whole.JPG",
+    "changes": "Resized for web; displayed with a square crop. Adapted photographs remain under the stated source license."
+  }
+];
